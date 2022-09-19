@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		int number1 = 1184;
+		int number1 = 11184;
 		int number2 = 1210;
 		
 		int total1 = 0;
